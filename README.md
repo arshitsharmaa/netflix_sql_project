@@ -23,6 +23,7 @@ The Data for this project is sorced from Kaggle Dataset
 
 -- SQL Netflix project
 
+'''sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
@@ -39,6 +40,7 @@ CREATE TABLE netflix
   listed_in VARCHAR(250),
   description VARCHAR(550)
 );
+'''
 
 ## Business problems and solutions
 
