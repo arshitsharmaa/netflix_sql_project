@@ -21,7 +21,7 @@ The Data for this project is sorced from Kaggle Dataset
 
 ## Schema
 
--- SQL Netflix project
+SQL Netflix project
 
 ```sql
 DROP TABLE IF EXISTS netflix;
