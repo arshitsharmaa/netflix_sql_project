@@ -236,7 +236,7 @@ ORDER BY 1;
 
 - ***Common Ratings:*** Insights into the most common ratings provide an **understanding the preferences of our target audience**. Ratings that are shown most of the times especially ratings that are good for business growth gives a clear understanding of likes of audience But at the same time there can common ratings which shows the dislikes of audience and that should be improved by **making content according to likes of audience. This will lead to long term growth.**
 
-- ***Geographical Insights:*** The top countries and the average content releases by India highlight regional content distribution. This allows the business to categorize the content distribution (Movies and TV shows) that are shown by our audience in India. By doing this **Netflix can make decision that which is better to produce TV shows or Movies in India.**
+- ***Domestic Insights:*** The top countries and the average content releases by India highlight regional content distribution. This allows the business to categorize the content distribution (Movies and TV shows) that are shown by our audience in India. By doing this **Netflix can make decision that which is better to produce TV shows or Movies in India.**
 
 - ***Top Actors:*** According to data, we analyze that there are 10 actors that are shown in films most of times. In the long term, Netflix should focus on movies/TV Shows with new actors to diversify content and keep audiences engaged. **Netflix should focus on releasing more content performed by young actors, introducing fresh actors may attract younger audiences that increases the number of new audience**.
  
